@@ -24,3 +24,10 @@ const yan = {
 }
 ```
 
+## Learning 
+
+- [ ] NoSQL
+- [ ] WebSocket
+- [ ] Microservices
+
+<img align='center' src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="20%">

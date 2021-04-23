@@ -8,7 +8,7 @@
 
 
 
-## <img src="https://i.pinimg.com/originals/32/2f/08/322f08d75d313d6e51bdd8b3214ad2c7.gif" width="60"> A little more about me...  
+## <img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/riven.gif" width="60"> A little more about me...  
 
 ```javascript
 const yan = {

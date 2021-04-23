@@ -24,14 +24,22 @@ const yan = {
 }
 ```
 
-## Learning 
+   <img src="https://github.com/yan-brito/images/blob/main/vegeta-training.gif?raw=true" width="20%" align='right'>
+
+
+## :rocket: Learning... 
 
 - [ ] NoSQL
 - [ ] WebSocket
 - [ ] Microservices
 
+<br/><br/><br/><br/><br/><br/>
+
 <p align="center">
-  <img src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="20%">
+    <em>"We’ve Always Defined Ourselves By The Ability To Overcome The Impossible."</em>
+</p>
+<p align="center">
+<img src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="6%" align='center'>
 </p>
 
 

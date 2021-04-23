@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/yan-brito/images/blob/main/dev.gif?raw=true" width="30%">
+<img align='right' src="![image](https://user-images.githubusercontent.com/66627095/115878538-08973200-a41f-11eb-9bcc-eb61e7a08307.png)" width="30%">
 
 ## HEEEY I'm Yan!
 ## Full Stack Developer in training👨‍💻
@@ -24,7 +24,7 @@ const yan = {
 }
 ```
 
-   <img src="https://github.com/yan-brito/images/blob/main/vegeta-training.gif?raw=true" width="20%" align='right'>
+   <img src="![image](https://user-images.githubusercontent.com/66627095/115878494-fddc9d00-a41e-11eb-874b-57b9d191bc04.png)" width="20%" align='right'>
 
 
 ## :rocket: Learning... 
@@ -39,7 +39,7 @@ const yan = {
     <em>"We’ve Always Defined Ourselves By The Ability To Overcome The Impossible."</em>
 </p>
 <p align="center">
-<img src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="6%" align='center'>
+<img src="![image](https://user-images.githubusercontent.com/66627095/115878450-f2897180-a41e-11eb-9916-8fc7309f2d7a.png)" width="6%" align='center'>
 </p>
 
 

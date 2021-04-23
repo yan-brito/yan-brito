@@ -1,4 +1,4 @@
-<img align='right' src="./dev.gif" width="30%">
+<img align='right' src="https://github.com/yan-brito/images/blob/main/dev.gif?raw=true" width="30%">
 
 ## HEEEY I'm Yan!
 ## Full Stack Developer in training👨‍💻

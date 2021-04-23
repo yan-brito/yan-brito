@@ -1,4 +1,4 @@
-<img align='right' src="./dev.gif" width="30%">
+<img align='right' src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/dev.gif" width="30%">
 
 ## HEEEY I'm Yan!
 ## Full Stack Developer in training👨‍💻
@@ -24,3 +24,20 @@ const yan = {
 }
 ```
 
+   <img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/vegeta-training.gif" width="20%" align='right'>
+
+
+## :rocket: Learning... 
+
+- [ ] NoSQL
+- [ ] WebSocket
+- [ ] Microservices
+
+<br/><br/><br/><br/><br/><br/>
+
+<p align="center">
+    <em>"We’ve Always Defined Ourselves By The Ability To Overcome The Impossible."</em>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/astronaut.gif" width="6%" align='center'>
+</p>

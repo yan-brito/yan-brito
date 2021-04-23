@@ -30,4 +30,8 @@ const yan = {
 - [ ] WebSocket
 - [ ] Microservices
 
-<img align='center' src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="20%">
+<p align="center">
+  <img src="https://github.com/yan-brito/images/blob/main/astronaut.gif?raw=true" width="20%">
+</p>
+
+

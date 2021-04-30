@@ -1,7 +1,7 @@
 <img align='right' src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/dev.gif" width="30%">
 
 ## HEEEY I'm Yan!
-## Full Stack Developer in training👨‍💻
+## Full Stack Developer👨‍💻
 
 
 [![](https://img.shields.io/badge/LinkedIn-YanBrito-blue)](https://www.linkedin.com/in/paulo-yan-b-844135181/)

@@ -16,7 +16,7 @@ const yan = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express"],
-        fronEnd: ["react"],
+        frontEnd: ["javascript", "react"],
         mobileApp: ["react-native"],
         database: ["mySQL"],
         misc: ["Firebase"]

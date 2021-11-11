@@ -1,7 +1,7 @@
 <img align='right' src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/dev.gif" width="30%">
 
 ## HEEEY I'm Yan!
-## Full Stack Developer👨‍💻
+## Mobile Developer👨‍💻
 
 
 [![](https://img.shields.io/badge/LinkedIn-YanBrito-blue)](https://www.linkedin.com/in/paulo-yan-b-844135181/)
@@ -19,7 +19,7 @@ const yan = {
         frontEnd: ["javascript", "react"],
         mobileApp: ["react-native"],
         database: ["mySQL"],
-        misc: ["Firebase"]
+        misc: ["firebase"]
     }
 }
 ```
@@ -29,9 +29,9 @@ const yan = {
 
 ## :rocket: Learning... 
 
-- [ ] NoSQL
+- [ ] Redux
 - [ ] WebSocket
-- [ ] Microservices
+- [ ] Native app development
 
 <br/><br/><br/><br/><br/><br/>
 

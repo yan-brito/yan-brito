@@ -18,7 +18,7 @@ const yan = {
         backEnd: ["nodejs", "express"],
         frontEnd: ["javascript", "react"],
         mobileApp: ["react-native"],
-        database: ["mySQL"],
+        database: ["mySQL, SQLite"],
         misc: ["firebase"]
     }
 }

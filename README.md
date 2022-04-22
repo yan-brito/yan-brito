@@ -17,23 +17,12 @@ const yan = {
     technologies:{
         backEnd: ["nodejs", "express"],
         frontEnd: ["javascript", "react"],
-        mobileApp: ["react-native"],
-        database: ["mySQL, SQLite"],
+        mobileApp: ["react-native", "android", "ios"],
+        database: ["mysql", "sqlite"],
         misc: ["firebase"]
     }
 }
 ```
-
-   <img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/vegeta-training.gif" width="20%" align='right'>
-
-
-## :rocket: Learning... 
-
-- [ ] Redux
-- [ ] WebSocket
-- [ ] Native app development
-
-<br/><br/><br/><br/><br/><br/>
 
 <p align="center">
     <em>"We’ve Always Defined Ourselves By The Ability To Overcome The Impossible."</em>

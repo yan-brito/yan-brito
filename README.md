@@ -4,7 +4,7 @@
 ## Mobile Developer👨‍💻
 
 
-[![](https://img.shields.io/badge/LinkedIn-YanBrito-blue)](https://www.linkedin.com/in/paulo-yan-b-844135181/)
+[![](https://img.shields.io/badge/LinkedIn-YanBrito-blue)](https://www.linkedin.com/in/paulo-yan-brito) [![](https://img.shields.io/badge/mail-yan.briito%40hotmail.com-red)](mailto:yan.briito@hotmail.com)
 
 
 
